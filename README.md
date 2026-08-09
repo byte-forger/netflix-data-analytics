@@ -49,7 +49,7 @@ The goal is to answer real business questions:
 </div>
 
 **Source:** [Kaggle — Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows) by Shivam Bansal
-**File:** `data/raw/netflix_titles.csv` · **Encoding:** `latin1`
+**File:** `data/raw/netflix_titles.csv`
 
 ---
 
