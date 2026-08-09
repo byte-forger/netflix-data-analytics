@@ -20,8 +20,6 @@
 
 <br/>
 
-![Netflix Dashboard Preview](dashboard/preview.png)
-
 </div>
 
 ---
@@ -178,7 +176,7 @@ dashboard/netflix_cleaned_data.html    ← Browse, search, sort & export all 7,7
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR-USERNAME/netflix-data-analytics.git
+git clone https://github.com/byte-forger/netflix-data-analytics.git
 cd netflix-data-analytics
 
 # Install dependencies
