@@ -168,8 +168,8 @@ The goal is to answer real business questions:
 
 ```bash
 # Just open these files in any browser — no server needed
-dashboard/netflix_dashboard.html       ← Interactive dashboard with 6 charts + filters
-dashboard/netflix_cleaned_data.html    ← Browse, search, sort & export all 7,770 titles
+[dashboard/netflix_dashboard.html](https://myportfolio-manas.netlify.app/project-netflix/netflix_dashboard)       ← Interactive dashboard with 6 charts + filters
+[dashboard/netflix_cleaned_data.html](https://myportfolio-manas.netlify.app/project-netflix/netflix_cleaned_data)    ← Browse, search, sort & export all 7,770 titles
 ```
 
 ### 🐍 Run the Python cleaning script
