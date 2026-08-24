@@ -164,13 +164,16 @@ The goal is to answer real business questions:
 
 ## 🚀 Quick Start
 
-### 👀 View dashboards instantly (no setup needed)
+### 👀 View dashboards instantly — no setup needed
 
-```bash
-# Just open these files in any browser — no server needed
-https://myportfolio-manas.netlify.app/project-netflix/netflix_dashboard       ← Interactive dashboard with 6 charts + filters
-https://myportfolio-manas.netlify.app/project-netflix/netflix_cleaned_data   ← Browse, search, sort & export all 7,770 titles
-```
+Just click the links below. No installation or server setup required.
+
+* 📊 **[Open Interactive Netflix Dashboard](https://myportfolio-manas.netlify.app/project-netflix/netflix_dashboard)**
+  Explore 6 interactive charts, KPIs, and filters.
+
+* 📂 **[Browse Cleaned Netflix Dataset](https://myportfolio-manas.netlify.app/project-netflix/netflix_cleaned_data)**
+  Browse, search, sort, and export all **7,770 Netflix titles**.
+
 
 ### 🐍 Run the Python cleaning script
 
